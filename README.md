@@ -55,7 +55,7 @@ My-EE-Journey/
 
 ## 数据看板
  **连续编码天数**：https://streak-stats.demolab.com/?user=Ling-kexin
- **近期贡献图**：https://github-readme-stats.vercel.app/api?username=ling-kexin
+ **近期贡献图**：https://github-readme-stats.vercel.app/api?username=Ling-kexin
 
  ---
 *这个仓库的存在，是为了证明决心，更是为了记录真实的成长。欢迎所有人的监督和指导。*
