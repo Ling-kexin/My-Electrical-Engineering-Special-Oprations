@@ -24,20 +24,25 @@ This warehouse is the cornerstone of my personal technical system. A setback in 
  **数学建模**：掌握常用模型与算法。
  **数据结构与算法**：LeetCode/OJ平台定期练习。
 
-## 仓库结构（Repository Structure）
+## 仓库结构
+
 My-EE-Journey/
-├──0-Core-C-Skills/          # C语言核心练习
-| ├──pointers-memory/        #指针与内存管理
-| └──data-structures/        #数据结构
-├──1-Embedded-STM32/         # 单片机项目
-| ├──HAL-Basics/             #HAL库基础
-├──2-Algorithms-DataStructures/ # 算法与数据结构
-├──3-Matlab-Simulink/        # 仿真与建模
-├──4-Academic-Notes/         # 专业课笔记
-├──5-Projects/               # 综合项目
-└──Resource/                 # 学习资源收集
-└──Misc/                     #其他
-└──Mistakes-Collection.md    #【特别重要】我的困惑与错误收集
+├── 0-Core-C-Skills/               # C语言核心练习
+│   ├── pointers-memory/          # 指针与内存管理
+│   ├── data-structures/          # 数据结构
+│   └── file-io/                  # 文件操作
+├── 1-Embedded-STM32/              # 单片机开发
+│   ├── HAL-Basics/               # HAL库基础
+│   ├── GPIO/                     # 通用输入输出
+│   ├── Timer-PWM/                # 定时器与PWM
+│   └── Projects/                 # 综合项目
+├── 2-Algorithms-DataStructures/   # 算法与数据结构
+├── 3-Matlab-Simulink/             # 仿真与建模
+├── 4-Academic-Notes/              # 专业课笔记
+├── 5-Projects/                    # 综合项目
+├── Resources/                     # 学习资源
+└── Misc/                          # 其他
+    └── Mistakes-Collection.md     # 错误与困惑收集
 
 ## 成长轨迹（Growth Trajectory）
 | 时间节点 | 目标/里程碑 | 状态 |
