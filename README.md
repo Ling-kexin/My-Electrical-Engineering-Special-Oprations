@@ -26,6 +26,7 @@ This warehouse is the cornerstone of my personal technical system. A setback in 
 
 ## 仓库结构
 
+```
 My-EE-Journey/
 ├── 0-Core-C-Skills/               # C语言核心练习
 │   ├── pointers-memory/          # 指针与内存管理
@@ -43,6 +44,7 @@ My-EE-Journey/
 ├── Resources/                     # 学习资源
 └── Misc/                          # 其他
     └── Mistakes-Collection.md     # 错误与困惑收集
+```
 
 ## 成长轨迹（Growth Trajectory）
 | 时间节点 | 目标/里程碑 | 状态 |
